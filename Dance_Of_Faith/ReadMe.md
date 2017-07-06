@@ -25,3 +25,9 @@ contest#012| Y | A | Y | Y | W | A | W
 contest#013| Y | Y | Y | Y | A | A | W
 contest#014| Y | Y | Y | A | W | X | X
 contest#015| Y | Y | A | A | A | X | X
+
+-----------------------------
+
+|  | A | B | C |
+---|---|---|---|
+XJOI#001| Y | A | Y |
