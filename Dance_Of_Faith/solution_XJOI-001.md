@@ -1,9 +1,7 @@
 # Solution Of XJOI-1
 
 
-[比赛链接 VJ](https://vjudge.net/contest/168929)
-
-[Origin](http://codeforces.com/contest/787)
+[比赛链接 XJOI](http://www.hzxjhs.com:83/contest/753)
 
 ------------------------------
 
